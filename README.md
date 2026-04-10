@@ -21,6 +21,8 @@
 ## How to use
 
 ### 1. Create a song
+
+### 1. Create a song
 Tap **+ New Song** on the gallery screen. Give it a title, an optional description, and a to-do list for things you want to work on in that session.
 
 ### 2. Add sections
@@ -59,7 +61,7 @@ In the **Note Editor**, tap a note cell to set the cursor. Hold and drag a cell 
 In the **Versions** panel, tap **+ v** to create a new empty version of a section, or long-press an existing version pill to copy it. Each version has its own independent note sequence — useful for trying a different melody over the same structure.
 
 ### 7. Save your work
-Your songs save automatically to your browser. To back up or move to another device, tap **Export session** on the gallery screen to download a `.json` file. Use **Import session** to restore it. 
+Your songs save automatically to your browser. To back up or move to another device, tap **Export session** on the gallery screen to download a `.json` file. Use **Import session** to restore it. You can also use this to export between devices (since I didn't make a server to host user data - all of this is hosted in github pages).
 
 ---
 
