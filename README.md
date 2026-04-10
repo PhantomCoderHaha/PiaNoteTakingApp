@@ -23,7 +23,7 @@ Which means, I need to take notes of what I'm playing.
   - Cons: Need to leave the seat every time you want to start/stop recording + need to squint your eyes when you're trying to look for a specific notes you forget.
 3. Professional music composition software:
   - Pros: Robust features. If you're already proficient in using the software, this is probably the fastest way.
-  - Cons: Overkill when you just want to improvise something + I can't be bothered learning all of that.
+  - Cons: Overkill when you just want to improvise something + don't want to look at music notation + can't be bothered learning all of that. 
 4. AI audio analysis:
   - Pros: Just send your audio/video recording and it'll analyse the notes for you.
   - Cons: It's paid (I can't afford it) + can be [innacurate for lower octave notes](https://www.sciencedirect.com/science/article/pii/S1110866525001392#s0090)
