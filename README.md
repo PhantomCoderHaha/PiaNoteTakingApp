@@ -40,6 +40,23 @@ I mainly build this for people who are trying to learn to play piano by ear as t
 
 ---
 
+## Mental model/philosophy behind the app:
+
+Most song aren't just single notes tied together, they contain patterns like scales runs, arpeggios, chord jumps, etc..
+However, it's hard for an untrained eye to see those patterns as they only see the individual notes.
+
+Chunking individual notes can help in increasing the efficiency of encording and retrieval of information. (Chase & Simon (1973) — "Perception in Chess" -> [Carnegie Mellon PDF](https://iiif.library.cmu.edu/file/Simon_box00005_fld00354_bdl0001_doc0001/Simon_box00005_fld00354_bdl0001_doc0001.pdf) or [Science Direct access](https://www.sciencedirect.com/science/article/abs/pii/0010028573900042)). 
+
+So, instead of just listing out all the notes, I created a way to compress multiple notes into a single note cell. As a result, this will aid novice music player to start seeing music as an interplay between music theory patterns instead of just memorizing the notes in isolation. It also makes profient players to just input multiple notes in a single gesture instead of manually putting the notes one by one.
+
+> Note: I'm not enforcing this method to novices, they can still just take the notes individually. It's just an option that's available to use.
+
+<img width="1440" height="1264" alt="image" src="https://github.com/user-attachments/assets/851ed0c4-9169-4e78-ae43-9a41719a5ded" />
+
+
+
+---
+
 ## How to use (AI generated)
 
 ### 0. Access the app
